@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.ngpslup.cn/sitemap.xml
